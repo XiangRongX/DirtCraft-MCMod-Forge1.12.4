@@ -1,1 +1,1 @@
-打包好的jar在build/lib下，目前有更新了三个版本
+打包好的jar在build/lib下，目前更新了三个版本
