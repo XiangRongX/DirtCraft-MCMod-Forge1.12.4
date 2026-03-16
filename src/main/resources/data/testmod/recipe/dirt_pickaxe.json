@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CCC",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "C": "testmod:compressed_dirt",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "testmod:dirt_pickaxe",
+    "count": 1
+  }
+}

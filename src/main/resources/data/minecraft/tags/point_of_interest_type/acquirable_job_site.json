@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "testmod:dirt_worker_poi",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "testmod:dirt_armor_smelting",
+  "category": "blocks",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "",
+  "ingredient": "testmod:dirt_helmet",
+  "result": {
+    "id": "testmod:compressed_dirt"
+  }
+}

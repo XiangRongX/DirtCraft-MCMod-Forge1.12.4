@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "testmod:dirt_essence_block"
+  ],
+  "result": {
+    "id": "testmod:dirt_essence",
+    "count": 9
+  }
+}

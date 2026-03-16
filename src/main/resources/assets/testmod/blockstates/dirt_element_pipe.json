@@ -1,0 +1,58 @@
+{
+  "multipart": [
+    {
+      "apply": { "model": "testmod:block/dirt_element_pipe_center" }
+    },
+
+    {
+      "when": { "north": true },
+      "apply": {
+        "model": "testmod:block/dirt_element_pipe_connections",
+        "x": 90,
+        "y": 0
+      }
+    },
+
+    {
+      "when": { "south": true },
+      "apply": {
+        "model": "testmod:block/dirt_element_pipe_connections",
+        "x": 90,
+        "y": 180
+      }
+    },
+
+    {
+      "when": { "east": true },
+      "apply": {
+        "model": "testmod:block/dirt_element_pipe_connections",
+        "x": 90,
+        "y": 90
+      }
+    },
+
+    {
+      "when": { "west": true },
+      "apply": {
+        "model": "testmod:block/dirt_element_pipe_connections",
+        "x": 90,
+        "y": 270
+      }
+    },
+
+    {
+      "when": { "up": true },
+      "apply": {
+        "model": "testmod:block/dirt_element_pipe_connections"
+      }
+    },
+
+    {
+      "when": { "down": true },
+      "apply": {
+        "model": "testmod:block/dirt_element_pipe_connections",
+        "x": 180
+      }
+    }
+  ]
+}

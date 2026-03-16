@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "DDD",
+    "DDD",
+    "DDD"
+  ],
+  "key": {
+    "D": "testmod:dirt_essence"
+  },
+  "result": {
+    "id": "testmod:dirt_essence_block",
+    "count": 1
+  }
+}

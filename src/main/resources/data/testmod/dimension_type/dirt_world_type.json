@@ -1,0 +1,23 @@
+{
+  "has_skylight": true,
+  "has_ceiling": false,
+  "natural": true,
+  "ultrawarm": false,
+  "ambient_light": 0.0,
+  "coordinate_scale": 1.0,
+  "effects": "the_nether",
+  "infiniburn": "#minecraft:infiniburn_overworld",
+  "min_y": 0,
+  "height": 128,
+  "logical_height": 128,
+  "cloud_height": 240,
+  "bed_works": false,
+  "respawn_anchor_works": true,
+  "piglin_safe": false,
+  "has_raids": false,
+  "monster_spawn_block_light_limit": 7,
+  "monster_spawn_light_level": {
+    "type": "constant",
+    "value": 7
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "sky_color": 8750469,
+  "fog_color": 8750469,
+  "water_color": 4605510,
+  "water_fog_color": 328965,
+  "thick_fog": true,
+  "music": {
+    "sound": "minecraft:music.overworld.forest",
+    "min_delay": 12000,
+    "max_delay": 24000,
+    "replace_current_music": false
+  },
+  "ambient_sound": "minecraft:ambient.cave",
+  "particle": {
+    "type": "minecraft:dust",
+    "options": {
+      "color": [0.5, 0.4, 0.3],
+      "scale": 1.0
+    },
+    "probability": 0.05
+  }
+}

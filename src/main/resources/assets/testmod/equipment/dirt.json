@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "horse_body": [
+      {
+        "texture": "testmod:dirt"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "testmod:dirt"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "testmod:dirt"
+      }
+    ]
+  }
+}

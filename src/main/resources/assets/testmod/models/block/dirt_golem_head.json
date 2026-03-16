@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "testmod:block/dirt_golem_head_other",
+    "east": "testmod:block/dirt_golem_head_other",
+    "north": "testmod:block/dirt_golem_head_front",
+    "particle": "testmod:block/dirt_golem_head_other",
+    "south": "testmod:block/dirt_golem_head_other",
+    "up": "testmod:block/dirt_golem_head_other",
+    "west": "testmod:block/dirt_golem_head_other"
+  }
+}

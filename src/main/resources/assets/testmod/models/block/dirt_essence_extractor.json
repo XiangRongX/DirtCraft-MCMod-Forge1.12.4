@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "testmod:block/dirt_essence_extractor_side",
+    "side": "testmod:block/dirt_essence_extractor_side",
+    "top": "testmod:block/dirt_essence_extractor_top"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "testmod:dirt_world_biome",
+  "features": "testmod:dirt_essence_ore_placed",
+  "step": "underground_ores"
+}

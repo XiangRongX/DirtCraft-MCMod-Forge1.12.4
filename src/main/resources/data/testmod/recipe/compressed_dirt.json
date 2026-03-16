@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "DDD",
+    "DDD",
+    "DDD"
+  ],
+  "key": {
+    "D": "minecraft:dirt"
+  },
+  "result": {
+    "id": "testmod:compressed_dirt",
+    "count": 1
+  }
+}

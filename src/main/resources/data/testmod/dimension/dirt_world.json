@@ -1,0 +1,11 @@
+{
+  "type": "testmod:dirt_world_type",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "testmod:dirt_world_noise",
+    "biome_source": {
+      "type": "fixed",
+      "biome": "testmod:dirt_world_biome"
+    }
+  }
+}

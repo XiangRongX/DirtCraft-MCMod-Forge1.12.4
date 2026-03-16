@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CCC",
+    "C C",
+    "C C"
+  ],
+  "key": {
+    "C": "testmod:compressed_dirt"
+  },
+  "result": {
+    "id": "testmod:dirt_leggings",
+    "count": 1
+  }
+}

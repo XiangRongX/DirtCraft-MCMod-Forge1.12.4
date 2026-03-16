@@ -1,0 +1,65 @@
+{
+  "has_precipitation": false,
+  "temperature": 0.8,
+  "temperature_modifier": "none",
+  "downfall": 0.0,
+  "effects": {
+    "fog_color": 8750469,
+    "sky_color": 8750469,
+    "water_color": 4159204,
+    "water_fog_color": 329011,
+    "dry_foliage_color": 329011,
+    "grass_color": 9673200,
+    "foliage_color": 10387789,
+    "grass_color_modifier": "none",
+    "particle": {
+      "probability": 0.02,
+      "options": {
+        "type": "minecraft:dust",
+        "color": [0.5, 0.4, 0.3],
+        "scale": 1.0
+      }
+    },
+    "ambient_sound": "minecraft:ambient.nether_wastes.loop",
+    "mood_sound": {
+      "sound": "minecraft:ambient.basalt_deltas.mood",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 2.0
+    },
+    "music": [
+      {
+        "data": {
+          "sound": "minecraft:music.overworld.forest",
+          "min_delay": 12000,
+          "max_delay": 24000,
+          "replace_current_music": false
+        },
+        "weight": 1
+      }
+    ]
+  },
+  "carvers": "testmod:dirt_world_cave",
+  "features": [
+    [], [], [], [], [], [], [], [], [], [], []
+  ],
+  "creature_spawn_probability": 0.0,
+  "spawners": {
+    "monster": [
+      {
+        "type": "testmod:dirt_golem",
+        "weight": 100,
+        "minCount": 1,
+        "maxCount": 3
+      }
+    ],
+    "creature": [],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {}
+}

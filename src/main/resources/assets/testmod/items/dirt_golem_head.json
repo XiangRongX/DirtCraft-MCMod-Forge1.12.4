@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "minecraft:special",
+    "base": "minecraft:item/template_skull",
+    "model": {
+      "type": "minecraft:head",
+      "animation": 0.0,
+      "texture": "testmod:dirt_golem_head",
+      "kind": "player"
+    }
+  }
+}
